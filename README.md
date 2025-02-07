@@ -1,1 +1,2 @@
-# StudentGradePrediction
+Student Grade Prediction using Machine Learning
+Developed a machine learning pipeline to preprocess and analyze student performance data, applying data cleaning, outlier detection, feature engineering, and scaling. Implemented regression models (Linear Regression, Random Forest, XGBoost, SVR) to predict final grades (G3), optimizing performance using MAE, MSE, and R². Conducted feature importance analysis and visualized insights through statistical plots.
